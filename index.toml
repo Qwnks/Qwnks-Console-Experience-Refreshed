@@ -154,11 +154,6 @@ hash = "a5f67311e64ea67e8097c1fdd4d20cf11e1c5236334b5becabad7dabdae975db"
 metafile = true
 
 [[files]]
-file = "mods/compose-multiplatform.pw.toml"
-hash = "eb1f7452740a8764a6fbdda2d6cf592a3dfd289c28d64b27bec73bb26c6b5c19"
-metafile = true
-
-[[files]]
 file = "mods/configmanager.pw.toml"
 hash = "48eea561787fda4c303f60716c0266ab613e8d816642617515be3d04777189b2"
 metafile = true
@@ -311,11 +306,6 @@ metafile = true
 [[files]]
 file = "mods/mru.pw.toml"
 hash = "7e37578ce349f88383ed90c42952b4de724d619e3f09ea4f94fc6af8be770252"
-metafile = true
-
-[[files]]
-file = "mods/oneconfig.pw.toml"
-hash = "ac81bd96d917dd2a844c9286e079dd8574f6585262b9fa002adc1e610b77efdd"
 metafile = true
 
 [[files]]
