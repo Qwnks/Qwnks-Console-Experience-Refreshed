@@ -22,7 +22,7 @@ The result: the same vision, ~50 mods instead of ~85.
 - **Atmosphere** — AmbientSounds, Sound Physics Remastered and footstep audio
 - **Console-style HUD** — BetterF3, mount HUD and statistics screens
 - **Performance** — Sodium, Lithium, FerriteCore, ModernFix, ImmediatelyFast, EntityCulling, MoreCulling
-- **Quality of life** — Inventory Profiles Next, Jade, AppleSkin, VeinMiner, Mouse Tweaks, Shulker Box Tooltip
+- **Quality of life** — Inventory Profiles Next, Jade, AppleSkin, VeinMiner, FallingTree, Mouse Tweaks, Shulker Box Tooltip
 
 ## Branches
 
@@ -31,8 +31,8 @@ identical across them.
 
 | Branch | Loader | Mods |
 | --- | --- | --- |
-| [`main`](../../tree/main) | Fabric | 57 |
-| [`neoforge`](../../tree/neoforge) | NeoForge | 49 |
+| [`main`](../../tree/main) | Fabric | 58 |
+| [`neoforge`](../../tree/neoforge) | NeoForge | 50 |
 
 A handful of mods differ between loaders (for example `continuity` → `fusion`, `PresenceFootsteps` →
 `Tread Lightly`), and Essential is currently Fabric-only.
