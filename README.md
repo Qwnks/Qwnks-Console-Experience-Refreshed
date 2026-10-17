@@ -31,7 +31,7 @@ identical across them.
 
 | Branch | Loader | Mods |
 | --- | --- | --- |
-| [`main`](../../tree/main) | Fabric | 58 |
+| [`main`](../../tree/main) | Fabric | 56 |
 | [`neoforge`](../../tree/neoforge) | NeoForge | 50 |
 
 A handful of mods differ between loaders (for example `continuity` → `fusion`, `PresenceFootsteps` →
