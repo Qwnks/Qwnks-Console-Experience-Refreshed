@@ -1,13 +1,13 @@
 name = "libIPN"
-filename = "libIPN-fabric-1.21.11-6.6.3.jar"
+filename = "libIPN-neoforge-1.21.11-6.6.3.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/onSQdWhM/versions/ByG214OZ/libIPN-fabric-1.21.11-6.6.3.jar"
+url = "https://cdn.modrinth.com/data/onSQdWhM/versions/BLotWDvZ/libIPN-neoforge-1.21.11-6.6.3.jar"
 hash-format = "sha512"
-hash = "a822922ec5a01b83413bdf36248019890207c4ede44ae247ddf298b43d127353842fe5dd411d49277ab906d01479451d03c12881fd0883397cb8774354383983"
+hash = "54c3ec6c9c0819c29e9f7d0134d2aa48faca050756ec66f0680159e0d665a58cdfeb657fad5d045c392db094fbd08e4c13c22c99eb1c7b10eb23586c89bf6e75"
 
 [update]
 [update.modrinth]
 mod-id = "onSQdWhM"
-version = "ByG214OZ"
+version = "BLotWDvZ"

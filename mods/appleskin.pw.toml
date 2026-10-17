@@ -1,13 +1,13 @@
 name = "AppleSkin"
-filename = "appleskin-fabric-mc1.21.11-3.0.8.jar"
+filename = "appleskin-neoforge-mc1.21.11-3.0.8.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/EsAfCjCV/versions/59ti1rvg/appleskin-fabric-mc1.21.11-3.0.8.jar"
+url = "https://cdn.modrinth.com/data/EsAfCjCV/versions/MH9ov9DW/appleskin-neoforge-mc1.21.11-3.0.8.jar"
 hash-format = "sha512"
-hash = "d32206cb8d6fac7f0b579f7269203135777283e1639ccb68f8605e9f5469b5b54305fd36ba82c64b48b89ae4f1a38501bfb5827284520c3ec622d95edcfa34de"
+hash = "40f5b6f74a8b2a48dd85c0275e0fd8887d35a050a8673265db62bdc8e4ef9edb7f4e4f47219625ede2f9f0b5217cf4c7f0dc9aed72e2bbc012ca84abb090a197"
 
 [update]
 [update.modrinth]
 mod-id = "EsAfCjCV"
-version = "59ti1rvg"
+version = "MH9ov9DW"

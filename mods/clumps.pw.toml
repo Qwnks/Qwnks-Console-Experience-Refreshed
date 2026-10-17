@@ -1,13 +1,13 @@
 name = "Clumps"
-filename = "Clumps-fabric-1.21.11-29.0.0.1.jar"
+filename = "Clumps-neoforge-1.21.11-29.0.0.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/Wnxd13zP/versions/OgBE8Rz4/Clumps-fabric-1.21.11-29.0.0.1.jar"
+url = "https://cdn.modrinth.com/data/Wnxd13zP/versions/a8bNGdqK/Clumps-neoforge-1.21.11-29.0.0.1.jar"
 hash-format = "sha512"
-hash = "3cff3cd2d600a6d84030b38ce6244143d13774d5287627bb7312adae5edc7ae2d9151a2c9c39a00681c354d549b0a62ac48c0077ba586cc10c00d32f39e87f18"
+hash = "48d735331125a5aa6bc936b64c88195be8879f02ede244c8199dd5d33cad6d8207e552ae7e63e6b6eb34e961eac06c8f7a694b1f6a87a80583d8dab6548fa4c9"
 
 [update]
 [update.modrinth]
 mod-id = "Wnxd13zP"
-version = "OgBE8Rz4"
+version = "a8bNGdqK"

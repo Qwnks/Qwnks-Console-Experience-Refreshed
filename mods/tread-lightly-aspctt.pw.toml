@@ -1,0 +1,13 @@
+name = "Tread Lightly"
+filename = "TreadLightly-1.1.0+1.21.11-neoforge.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/EZLEVAhb/versions/PwCBxQml/TreadLightly-1.1.0%2B1.21.11-neoforge.jar"
+hash-format = "sha512"
+hash = "401f6e0784801029717625e6c16e61feb9a00bd5bd2e32b6024e0f3b7fca9001befe9146a120aeee93fe9a010c6640daa52f32ec0652ebd9397d2179be297a1b"
+
+[update]
+[update.modrinth]
+mod-id = "EZLEVAhb"
+version = "PwCBxQml"
