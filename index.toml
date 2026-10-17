@@ -1,6 +1,114 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/modpack_defaults/config/MouseTweaks.cfg"
+hash = "4069ce1a439d8c37453c1b1e9f2037e0942674c7e48723a39b37eab245792ad4"
+
+[[files]]
+file = "config/modpack_defaults/config/controlify.json"
+hash = "3e958db7621f84117bc56991168be6aa973e31b2015f879f5f4cc3e873992b0d"
+
+[[files]]
+file = "config/modpack_defaults/config/cubes-without-borders.json"
+hash = "d35d0e9cb8d00fd1bf92e642c28f8cd9b8cdd37e6806441864d2a410eaa03b6d"
+
+[[files]]
+file = "config/modpack_defaults/config/dynamic_fps.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "config/modpack_defaults/config/entity_model_features.json"
+hash = "ede5d1efe6317146a99c2fe6cf7fa502cbb2f1f5aca350be029b7cd071682138"
+
+[[files]]
+file = "config/modpack_defaults/config/entity_texture_features.json"
+hash = "bd66edf9d1a72cd717bbe9b17b41ffd16963b089493e5ddae3d3ad69153105ba"
+
+[[files]]
+file = "config/modpack_defaults/config/entityculling.json"
+hash = "4a6d510b7e0157027b1cf2022184567fd5387aa09d08db108cb0369ba371ddbe"
+
+[[files]]
+file = "config/modpack_defaults/config/ferritecore.mixin.properties"
+hash = "fddb9f45485b7ae24191e3d94aa6e94a31016a8d4938d970d7f9877c79235732"
+
+[[files]]
+file = "config/modpack_defaults/config/immediatelyfast.json"
+hash = "9a1ae7577440d36732b4d34885195b37423a3e8b906ff8602220bc0447969d15"
+
+[[files]]
+file = "config/modpack_defaults/config/iris-excluded.json"
+hash = "4d3264b58c502afaeca3f44e8d2db0843c54b8ba957afd21a2d450fe10dafefb"
+
+[[files]]
+file = "config/modpack_defaults/config/iris.properties"
+hash = "58432223d6c5993d19bbf7a247aa8b48edf3871393dfb412bdbd5aa07dc3e99e"
+
+[[files]]
+file = "config/modpack_defaults/config/lithium.properties"
+hash = "6cf6f83720071fd1657c8e79b357caf68d40f410ae123e5f922483eb1d1d25be"
+
+[[files]]
+file = "config/modpack_defaults/config/malilib.json"
+hash = "ee8bd3e9335c6e092dc81a231c334575d1841e932481a05c77f969badcc6791a"
+
+[[files]]
+file = "config/modpack_defaults/config/modernfix-mixins.properties"
+hash = "7dc4219bc01d2b5814a92aa2f9d230c33b1986880ae7bcfdd0318d55676a6cd0"
+
+[[files]]
+file = "config/modpack_defaults/config/modmenu.json"
+hash = "16d20c40cc6c114faff5493b561873fe160a65047720bc19fb3a3dd64aa67f3b"
+
+[[files]]
+file = "config/modpack_defaults/config/moreculling.toml"
+hash = "7325630da370b45c609cb4cae759338c2b9e5959d2e203dcef638319b95564bb"
+
+[[files]]
+file = "config/modpack_defaults/config/skinlayers.json"
+hash = "45162f45aa2db525a0edc483959f35b6d958ba2e54066a4f87e7f3c3f0f99166"
+
+[[files]]
+file = "config/modpack_defaults/config/sodium-extra-options.json"
+hash = "f79d1a65f254af7ed2bd0aa5846ec1315912f37a341660f1cc12f0e64e3b8324"
+
+[[files]]
+file = "config/modpack_defaults/config/sodium-extra.properties"
+hash = "a2f1b47c1eaa119ab34727f1d43c2506cb3d7f17ba8fb4efb49e20c8e0b58e70"
+
+[[files]]
+file = "config/modpack_defaults/config/sodium-fingerprint.json"
+hash = "3d1333ffa3d5a1557a340c36fec13d2d9f70a9f1fcddd6418adacfd4c26f8deb"
+
+[[files]]
+file = "config/modpack_defaults/config/sodium-mixins.properties"
+hash = "b627c4456e6fa0bc4b5f85e2f1cd949faedae3cb9afdaf2a5f52e6f3b6ae1f01"
+
+[[files]]
+file = "config/modpack_defaults/config/sodium-options.json"
+hash = "edc4b8a2e4aa7bac58270e89b4c5e54cb35c054f9cba6439951e4c89e66b915e"
+
+[[files]]
+file = "config/modpack_defaults/config/sodium-shadowy-path-blocks-options.json"
+hash = "25baba4e198fbefd6656a38dcf0cdc3e7ccef211221b4f5218d22a778d1853fa"
+
+[[files]]
+file = "config/modpack_defaults/config/voxy-config.json"
+hash = "eecf1f6a6f8d72f49fd044724665e6440d325e15600366c0c03334301c353b11"
+
+[[files]]
+file = "config/modpack_defaults/config/voxy-seam-fix.json"
+hash = "2c021527df5edd053e0e90b444a89b4cd4abf536059c4f48a034ee82c82d5683"
+
+[[files]]
+file = "config/modpack_defaults/config/yacl.json5"
+hash = "121b93764159be6fb7dab523b29a844e2bb78400ce8c48f52135a097e9b0006e"
+
+[[files]]
+file = "config/modpack_defaults/options.txt"
+hash = "9cc7e5faf6ec75d661364a434b5b9483b3476c117d792fc68abd029ce5224b19"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "bd6a99db43d7ec9e2e64438cb415fe0454164cfd386d2f07d7ff4637353d0521"
 metafile = true
