@@ -1,0 +1,7 @@
+# Repo housekeeping files — not part of the modpack.
+# Anything listed here is excluded from index.toml and the exported .mrpack.
+/README.md
+/LICENSE
+/SECURITY.md
+/.gitignore
+/.packwizignore
