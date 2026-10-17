@@ -229,6 +229,11 @@ hash = "1811d49906aa7a1e7f1230535c6fec91be45129d028f7900cf35571a497e42b3"
 metafile = true
 
 [[files]]
+file = "mods/fallingtree.pw.toml"
+hash = "a2ce5d9240b5fdad251561213c2dd44943e8b75232a1b9ded1b02140ed994c78"
+metafile = true
+
+[[files]]
 file = "mods/farmers-delight-refabricated.pw.toml"
 hash = "cafccce614d8678d92713109d5cf1840fa13176a8d20ff37cbf95b2ee9e7ae31"
 metafile = true
