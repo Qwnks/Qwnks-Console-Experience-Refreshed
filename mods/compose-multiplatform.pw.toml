@@ -1,0 +1,13 @@
+name = "Compose Multiplatform"
+filename = "compose-bundle-1.0.6+compose.1.13.0-alpha02.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/eHe8QhtD/versions/2P056ND6/compose-bundle-1.0.6%2Bcompose.1.13.0-alpha02.jar"
+hash-format = "sha512"
+hash = "84b8943d728e281175e99bb65f096d63dd7d50cc0707b9518e8b8fbd7a466aa9297ccfbf5760e4e0f78d879d58a41a69984fd1ff85ad508a33e7db8196dc0367"
+
+[update]
+[update.modrinth]
+mod-id = "eHe8QhtD"
+version = "2P056ND6"
