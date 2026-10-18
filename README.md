@@ -9,7 +9,7 @@ atmosphere and quality-of-life, without the bloat.
 
 ## What is this?
 
-**QCE: Refreshed** is a ground-up rebuild of the Qwnks' Console Experience modpack. It keeps the
+**Qwnks' Console Experience: Refreshed** is a ground-up rebuild of the Qwnks' Console Experience modpack. It keeps the
 console-inspired feel of the original while cutting the mod list roughly in half — removing
 duplicate functionality, overlapping performance mods and unused libraries.
 
@@ -20,7 +20,6 @@ The result: the same vision, ~50 mods instead of ~85.
 - **Controller-first** — full gamepad support via Controlify
 - **Cinematic** — Iris shaders with Sodium, plus dynamic lighting
 - **Atmosphere** — AmbientSounds, Sound Physics Remastered and footstep audio
-- **Console-style HUD** — BetterF3, mount HUD and statistics screens
 - **Performance** — Sodium, Lithium, FerriteCore, ModernFix, ImmediatelyFast, EntityCulling, MoreCulling
 - **Quality of life** — Inventory Profiles Next, Jade, AppleSkin, VeinMiner, FallingTree, Mouse Tweaks, Shulker Box Tooltip
 
@@ -41,7 +40,6 @@ A handful of mods differ between loaders (for example `continuity` → `fusion`,
 
 1. Download the latest `.mrpack` from the [Releases](../../releases) page.
 2. In **Prism Launcher**: `Add Instance` → `Import from zip` → select the `.mrpack`.
-3. Launch. Requires **Java 21**.
 
 > The `.mrpack` is a small manifest — your launcher downloads the mods for you.
 
@@ -63,8 +61,6 @@ packwiz update --all
 # export a distributable .mrpack
 packwiz modrinth export
 ```
-
-Switch loaders with `git checkout main` (Fabric) or `git checkout neoforge` (NeoForge).
 
 ## Credits
 
