@@ -1,0 +1,13 @@
+name = "Bare Bones - Connected Glass"
+filename = "Bare Bones Connected Glass 1.21.11.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/7vuMiTHm/versions/ylN5Dyo6/Bare%20Bones%20Connected%20Glass%201.21.11.zip"
+hash-format = "sha512"
+hash = "33fdc36572eb61bb5a682b70427cc930fd1e0babd09f491ccbcbbf39e8172e8b96ec5f32c9b12102fc8e0fdd66ef5f6e69fca02b3b78e00bafe210f149b865a3"
+
+[update]
+[update.modrinth]
+mod-id = "7vuMiTHm"
+version = "ylN5Dyo6"
