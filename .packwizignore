@@ -1,0 +1,7 @@
+# Notice: This is for any file that isn't for the Modpack as to make sure the Repo stays clean.
+# Any other thing listed here is also excluded from the packwiz index and mrpack so no worries!
+README.md
+LICENSE
+SECURITY.md
+.gitignore
+.packwizignore
