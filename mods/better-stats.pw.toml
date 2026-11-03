@@ -1,13 +1,13 @@
 name = "Better Statistics Screen"
-filename = "betterstats-5.1.0+fabric-1.21.11.jar"
+filename = "betterstats-5.1.0+neoforge-1.21.11.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/n6PXGAoM/versions/99mBkJp1/betterstats-5.1.0%2Bfabric-1.21.11.jar"
+url = "https://cdn.modrinth.com/data/n6PXGAoM/versions/NeSaDFIO/betterstats-5.1.0%2Bneoforge-1.21.11.jar"
 hash-format = "sha512"
-hash = "54bcb9336ba8088ad4611ffc37d29f7cc4ed3c89465d6cedfe065ea641f5c252aa1ac4b2306a9c033ee6db9f29a916ed6101cb85e1867de09073894b9bcafe34"
+hash = "98be3cd7b1f29e9937d55889e25c827ba5d463027d29a36ccf31b1eedd99f38acd7e99cdffc5b9aa76aeb23bb7783f19d3201b432b29b11c83777f8fdd05d998"
 
 [update]
 [update.modrinth]
 mod-id = "n6PXGAoM"
-version = "99mBkJp1"
+version = "NeSaDFIO"

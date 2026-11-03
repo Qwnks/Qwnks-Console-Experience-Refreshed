@@ -1,13 +1,13 @@
 name = "TCDCommons API"
-filename = "tcdcommons-5.1.0+fabric-1.21.11.jar"
+filename = "tcdcommons-5.1.0+neoforge-1.21.11.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/Eldc1g37/versions/X850L9UC/tcdcommons-5.1.0%2Bfabric-1.21.11.jar"
+url = "https://cdn.modrinth.com/data/Eldc1g37/versions/eG8M6J3m/tcdcommons-5.1.0%2Bneoforge-1.21.11.jar"
 hash-format = "sha512"
-hash = "88b248ff84ce52bcb09ef5b8d7169f0de66dfed5f6860fb5799ab63deea2b81968c1af3adabfedbdf80025681c58ef1fd82c3e6a3624b7aaa43276d3133aca9f"
+hash = "88e9fc0047e5bb72caa451981629b7de3de332821e0c79149415113038093b4ffcaa2b74975e7d7c38815325d945a8c51d072057b16b68c68c94a48d5616b917"
 
 [update]
 [update.modrinth]
 mod-id = "Eldc1g37"
-version = "X850L9UC"
+version = "eG8M6J3m"

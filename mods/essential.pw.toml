@@ -1,0 +1,13 @@
+name = "Essential Mod"
+filename = "Essential_1-5-2_neoforge_1-21-11.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/k2ZPuTBm/versions/EcfSjJ2r/Essential_1-5-2_neoforge_1-21-11.jar"
+hash-format = "sha512"
+hash = "63595f2b2cfeb6aceafb8f0053cd7f93de82d4fec19fc30d570b8b6fd0b372fdc0f2de6227665f872eb15591c7509de95d974146acfb94493699d1c4761d149d"
+
+[update]
+[update.modrinth]
+mod-id = "k2ZPuTBm"
+version = "EcfSjJ2r"

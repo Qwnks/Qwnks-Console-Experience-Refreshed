@@ -1,0 +1,13 @@
+name = "Cubes Without Borders"
+filename = "cwb-5.0.0+1.21.11.neoforge.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/ETlrkaYF/versions/VtdJdtFe/cwb-5.0.0%2B1.21.11.neoforge.jar"
+hash-format = "sha512"
+hash = "506b3f917507d0bcfa18fe2db4301c6db9c2857af66b1fe81ac3edfce61c219477317ae2ea7ad019bc5cddb356a0f902236ee0abbe0e56de002345f187b6caed"
+
+[update]
+[update.modrinth]
+mod-id = "ETlrkaYF"
+version = "VtdJdtFe"

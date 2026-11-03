@@ -1,0 +1,13 @@
+name = "Farmer's Delight: NeoForge"
+filename = "FarmersDelight-1.21.11-fix2-neoforge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "07481ab20c1a40963784b931c392e0033291feec"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8997017
+project-id = 1707272

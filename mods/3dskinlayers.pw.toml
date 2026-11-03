@@ -1,13 +1,13 @@
 name = "3D Skin Layers"
-filename = "skinlayers3d-fabric-1.11.4-mc1.21.11.jar"
+filename = "skinlayers3d-neoforge-1.11.4-mc1.21.11.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/zV5r3pPn/versions/DsBJ7HB2/skinlayers3d-fabric-1.11.4-mc1.21.11.jar"
+url = "https://cdn.modrinth.com/data/zV5r3pPn/versions/Ql7SiR3b/skinlayers3d-neoforge-1.11.4-mc1.21.11.jar"
 hash-format = "sha512"
-hash = "b98c21bb429092aac3c4c583478662a5089e58812c3b65a4a031bce179d226c52c4550f003ef99b029eb8e7c37602e255400296cbf0e31f47f67139d2eb53f23"
+hash = "eac1b8f7a2ab13ac1e1a35def15f1613fe1cea0ad14f6cfc393981dbd0b1a503fb5924a4343d3ba3354af3d108805d6958a6bb753eebcfca7dbdc4c82bff2be1"
 
 [update]
 [update.modrinth]
 mod-id = "zV5r3pPn"
-version = "DsBJ7HB2"
+version = "Ql7SiR3b"
