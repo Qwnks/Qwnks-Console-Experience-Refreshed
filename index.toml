@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".directory"
+hash = "d59437769bb9d12d6e13d8cd0e0a1ea6601f3bc32b2e7dc9906fb22929eea2ef"
+
+[[files]]
 file = "config/modpack_defaults/config/MouseTweaks.cfg"
 hash = "4069ce1a439d8c37453c1b1e9f2037e0942674c7e48723a39b37eab245792ad4"
 
@@ -201,6 +205,11 @@ metafile = true
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
 hash = "bd7f9aadd2352aadb444071e7dc5817e90374020e4a138abf9886578b65c6e95"
+metafile = true
+
+[[files]]
+file = "mods/essential.pw.toml"
+hash = "5dc3e3d9d460977e5f53aa0564805441676cca5a0381272ee26c01cfd71256be"
 metafile = true
 
 [[files]]
