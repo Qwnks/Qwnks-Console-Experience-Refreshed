@@ -1,12 +1,12 @@
 name = "Qwnks' Console Experience (NeoForge)"
 author = "Qwnks"
-version = "4.1.0-Alpha.1"
+version = "4.1.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "eb45a6ffa6999f9181b73f053bb0e25774f8786eac003b630ca89e48ef0b87a6"
+hash = "ca9d3cf40001857f2789cc8b3c03730cc5eb9b6a56749462fa0b136aa3e9268a"
 
 [versions]
 minecraft = "1.21.11"

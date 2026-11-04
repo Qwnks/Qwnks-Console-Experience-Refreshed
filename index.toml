@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".directory"
+hash = "d59437769bb9d12d6e13d8cd0e0a1ea6601f3bc32b2e7dc9906fb22929eea2ef"
+
+[[files]]
 file = "config/modpack_defaults/config/MouseTweaks.cfg"
 hash = "4069ce1a439d8c37453c1b1e9f2037e0942674c7e48723a39b37eab245792ad4"
 
@@ -274,8 +278,8 @@ hash = "eb39561bd5982caa703b3e8011043b0504f65b43f23995445a5fbeca68957d66"
 metafile = true
 
 [[files]]
-file = "mods/modernfix.pw.toml"
-hash = "5b78147777f36f26c7362a508f55dbfd0674336c0fc1ca80294407c02dcee964"
+file = "mods/modernfix-mvus.pw.toml"
+hash = "1660e89546cdcb96da40ab0512a273933b120ce9f739993730a72cbfef9cc163"
 metafile = true
 
 [[files]]
