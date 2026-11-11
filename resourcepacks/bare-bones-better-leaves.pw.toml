@@ -1,0 +1,13 @@
+name = "Bare Bones - Better Leaves"
+filename = "Bare Bones Better Leaves 1.21.11.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/m4qArYal/versions/sPjKQbhb/Bare%20Bones%20Better%20Leaves%201.21.11.zip"
+hash-format = "sha512"
+hash = "d5f38fc46b11e07d2e74b3200446f4d6a75ddebadf6ba1b8ea2fdb31077dcffc2a87b11f4660e66f228784f6952006e2630adc4d40a8b0f23770a3c11bdf6636"
+
+[update]
+[update.modrinth]
+mod-id = "m4qArYal"
+version = "sPjKQbhb"

@@ -47,7 +47,7 @@ invertXMouse:false
 invertYMouse:false
 realmsNotifications:false
 showSubtitles:true
-directionalAudio:false
+directionalAudio:true
 touchscreen:false
 bobView:true
 toggleCrouch:false

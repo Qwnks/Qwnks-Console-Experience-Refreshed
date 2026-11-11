@@ -5,7 +5,7 @@
       "generic": {
         "auto_jump": false,
         "toggle_sprint": true,
-        "toggle_sneak": true,
+        "toggle_sneak": false,
         "disable_fly_drifting": false,
         "guide": {
           "verbosity": "full",
@@ -22,36 +22,36 @@
       },
       "input": {
         "bindings": {
-          "controlify:pick_block": {
-            "button": "controlify:button/back"
-          },
           "controlify:radial_menu": {
             "button": "controlify:button/dpad_left"
           },
-          "controlify:change_perspective": {
-            "button": "controlify:button/dpad_up"
+          "controlify:pick_block": {
+            "button": "controlify:button/back"
           },
           "controlify:open_chat": {
             "button": "controlify:button/dpad_right"
+          },
+          "controlify:change_perspective": {
+            "button": "controlify:button/dpad_up"
           }
         },
         "sensitivity": {
-          "horizontal": 1.1999998,
-          "vertical": 1.0999999,
+          "horizontal": 1.35,
+          "vertical": 1.25,
           "vertical_invert": false,
           "virtual_mouse": 1.0,
-          "reduce_aiming": true,
-          "look_curve": "standard",
-          "is_lce": true,
+          "reduce_aiming": false,
+          "look_curve": "s_curve",
+          "is_lce": false,
           "default_deadzone": 0.12
         },
         "radial_menu": {
           "actions": [
             "controlify:toggle_hud_visibility",
             "controlify:toggle_debug_menu",
-            "controlify:toggle_debug_menu_fps",
-            "controlify:toggle_debug_menu_net",
-            "controlify:toggle_debug_menu_prof",
+            "controlify:take_screenshot",
+            "fabric-key-binding-api-v1:iris.keybind.reload",
+            "fabric-key-binding-api-v1:iris.keybind.shaderpackselection",
             "controlify:pick_block_nbt",
             "controlify:drop_stack",
             "controlify:show_player_list"
@@ -83,6 +83,7 @@
   ],
   "global": {
     "virtual_mouse_screens": [
+      "net.minecraft.class_433",
       "net.minecraft.class_465"
     ],
     "mixed_input": false,
@@ -93,10 +94,11 @@
     "notify_low_battery": true,
     "ingame_button_guide_scale": 1.0,
     "use_enhanced_steam_deck_driver": true,
-    "keyboard_movement": false,
+    "keyboard_movement": true,
     "keyboard_movement_whitelist": [],
     "seen_servers": [
-      "rpg-smp.net"
+      "rpg-smp.net",
+      "og-network.net"
     ],
     "show_splitscreen_ad": true
   },
